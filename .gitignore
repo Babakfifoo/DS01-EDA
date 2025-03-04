@@ -1,0 +1,4 @@
+/.quarto/
+.venv/
+.mypy_cache/
+uv.lock

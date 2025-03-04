@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/babak-firoozi-fooladi/
+    - icon: github
+      text: Github
+      href: https://github.com/Babakfifoo/DS01-EDA
+
+---
+
+About this blog
